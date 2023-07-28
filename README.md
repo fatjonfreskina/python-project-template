@@ -2,7 +2,10 @@
 
 ## Setup
 
-- `python -m venv <venv-name> && \<venv-name\Scripts\activate `
+
+
+- `python -m venv <venv-name>` or `path\to\specific\python\interpreter -m venv <venv_name>`
+- \<venv-name\Scripts\activate
 - `pip install -r requirements.txt`
 
 ## Install the package as a script
